@@ -19,6 +19,7 @@
 </head>
 <body>
    <%
+		  
       if (user.getId() == null || user.getPassword() == null || user.getName() == null || 
       user.getGender() == null || user.getEmail() == null) {
         
