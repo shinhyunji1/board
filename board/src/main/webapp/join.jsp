@@ -39,10 +39,10 @@
           </ul>
         </div>
    </nav>
-   
+   <!-- 회원가입 양식 -->
    <div class="container">
-     <div class="col-lg-4"></div>
      <div class="col-lg-4">
+     <!-- 점보트론은 특정 컨텐츠, 정보를 두드러지게 하기 위한 큰 박스 -->
       <div class="jumbotron" style="padding-top: 20px;">
 	       <form method="post" action="joinAction.jsp">
 		        <h3 style="text-align: center;">회원가입 화면</h3>
